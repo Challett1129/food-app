@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Challett1129/food-app/issues"
   },
-  "homepage": "https://github.com/Challett1129/food-app#readme"
+  "homepage": "https://github.com/Challett1129/food-app#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
